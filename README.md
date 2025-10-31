@@ -12,4 +12,4 @@ An interactive program that visualizes CO2 air pollution in major Texas cities. 
 - "actions.py" Generates graphs in matplotlib from gathered data
 
 # How to run
--
+To run this project, download the project folder and open the scripts in Python. Running the main scripts will show air pollution data and generate graphs showing pollutant trends over time.
