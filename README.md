@@ -8,8 +8,8 @@ An interactive program that visualizes CO2 air pollution in major Texas cities. 
 - Data visualization with matplotlib for trend analysis
 
 # Usage
--"main.py" Handles the GUI elements and establishes Tkinter
--"actions.py" Generates graphs in matplotlib from gathered data
+- "main.py" Handles the GUI elements and establishes Tkinter
+- "actions.py" Generates graphs in matplotlib from gathered data
 
 # How to run
 -
